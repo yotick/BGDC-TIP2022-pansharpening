@@ -1,4 +1,4 @@
-# BAGDC-TIP2022-A Unified Pansharpening Model Based on Band-Adaptive Gradient and Detail Correction
+# TIP2022-BAGDC-A Unified Pansharpening Model Based on Band-Adaptive Gradient and Detail Correction
 If you wish to cite this paper, please refer to:
 # @article{lu_unified_2022,
 	title = {A Unified Pansharpening Model Based on Band-Adaptive Gradient and Detail Correction},
