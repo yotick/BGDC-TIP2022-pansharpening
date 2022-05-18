@@ -1,7 +1,7 @@
 # TIP2022-BAGDC-A Unified Pansharpening Model Based on Band-Adaptive Gradient and Detail Correction
-If you wish to cite this paper, please refer to:
-#
- @article{lu_unified_2022,
+If you wish to cite this paper, please refer to:  
+
+    @article{lu_unified_2022,
 	title = {A Unified Pansharpening Model Based on Band-Adaptive Gradient and Detail Correction},
 	volume = {31},
 	issn = {1057-7149, 1941-0042},
@@ -14,5 +14,6 @@ If you wish to cite this paper, please refer to:
 	author = {Lu, Hangyuan and Yang, Yong and Huang, Shuying and Tu, Wei and Wan, Weiguo},
 	urldate = {2022-01-15},
 	date = {2022},
-	langid = {english},
-}
+	langid = {english},	
+    }
+
