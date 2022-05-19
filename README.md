@@ -1,4 +1,7 @@
 # TIP2022-BAGDC-A Unified Pansharpening Model Based on Band-Adaptive Gradient and Detail Correction
+
+For reduced scale experiments (simulation), please run main_RS.m, for full scale (real) experiments, please run main_FS.m.
+
 If you wish to cite this paper, please refer to:  
 
     @article{lu_unified_2022,
